@@ -1,0 +1,477 @@
+<tensorflow.python.keras.engine.input_layer.InputLayer object at 0x7fb1585e2f28>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb1585711d0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158539780>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb15842fc18>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb15851cbe0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158571b00>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb15877cd30>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb15854a908>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb15854a208>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb158535dd8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb15846a5f8>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb158498c50>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb158498438>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158467860>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb15847e5c0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb15845c3c8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb158449748>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb1584492e8>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb1584496a0>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb1584b92e8>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb1584b9978>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb1584d8e10>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb1584d81d0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb158133278>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb15813c4a8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb15813c518>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158149fd0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb15815d048>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb1581514a8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb1581003c8>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb1581000f0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158100320>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb15812bbe0>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb1580b4668>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb15812b898>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb15812b8d0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb1580da5f8>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb1580de828>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb1580e9160>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158074eb8>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb158074e80>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb15807d358>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb15807dc88>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb158030cf8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb15803dac8>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb15803d400>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb15803da20>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a7c3320>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a7c3d68>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a7bf828>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a7bf588>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a7f4630>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a7fbc88>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a7fb470>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a784898>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a79a400>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a78c860>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a73d780>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a73d320>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a73d6d8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a773390>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a773a20>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a76deb8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a76d240>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a7242e8>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a729518>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a729588>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a735eb8>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a73c5c0>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a6eb048>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a6c80b8>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a67dba8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a687198>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a67d7f0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a67deb8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a6b3710>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a6b32b0>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a6b3630>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a661320>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a661f28>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a66ae48>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a66a860>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a674c88>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a6057f0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a5fdc50>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb15842fbe0>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb15842f4a8>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb1586361d0>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb15926b2b0>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb1585c1c50>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb1585e27b8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb1585396d8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a5f81d0>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a57f390>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a5886a0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a590c88>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a590c50>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a590ef0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a590f98>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a54dcf8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a559ac8>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a559400>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a559a20>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a507710>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a50df60>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a50d198>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a50d1d0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a4bd0b8>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a4c3c88>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a4cd588>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a4d6b70>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a4de198>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a4d6828>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a4de978>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a492be0>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a4a19b0>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a4a12e8>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a4a1908>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a44eef0>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a478f28>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a4552e8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a455080>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a403390>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a40ed68>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a415470>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a41da58>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a426860>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a41dcc0>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a3d8080>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a3cd908>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a3cdcc0>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a381630>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a38e1d0>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a3813c8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a381400>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a3b1320>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a3bc630>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a342978>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a34ada0>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a34ad68>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a357198>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a357be0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a30ce48>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a315c18>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a315550>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a315b70>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a2cc550>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a2d60f0>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a2cc2e8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a2cc320>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a2f8208>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a2813c8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a28b6d8>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a293cc0>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a293c88>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a293f28>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a29cac8>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a252d30>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a25eb00>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a25e438>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a25ea58>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a210438>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a210f98>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a2101d0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a210208>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a1c10f0>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a1cbcc0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a1d35c0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a1dcba8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a1e59b0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a1dce80>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a194198>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a18aa58>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a18aeb8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a1417b8>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a14a390>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a141550>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a141588>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a16f470>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a176780>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a1020f0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a109f28>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a109ef0>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a1123c8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a112d30>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a0d1a58>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a0db080>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a0d16a0>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a0d1cc0>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a0896a0>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb14a093278>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb14a089438>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a089470>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a0b6358>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb14a03f668>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a049828>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a051e10>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb14a051dd8>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb14a05c2b0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb14a05cc18>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a013e80>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb14a01dc50>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb14a01d588>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb14a01dba8>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb149fd3588>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb149fdc160>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb149fd3320>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149fd3358>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149f81240>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb149f87400>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149f92710>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb149f9acf8>
+<tensorflow.python.keras.layers.core.Dropout object at 0x7fb149f9acc0>
+<tensorflow.python.keras.layers.merge.Add object at 0x7fb149f9a9b0>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149fa5b00>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb149f5cd68>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb149f62b38>
+<tensorflow.python.keras.layers.convolutional.DepthwiseConv2D object at 0x7fb149f62470>
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb149f62a90>
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb149f194e0>
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb149f23048>
+<tensorflow.python.keras.layers.core.Reshape object at 0x7fb149f19208>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149f19240>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149ec8128>
+<tensorflow.python.keras.layers.merge.Multiply object at 0x7fb149ed0cf8>
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb149ed75c0>                      Conv 1x1   [1x]
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb149ee1be0>       BN
+<tensorflow.python.keras.layers.convolutional.Conv2D object at 0x7fb158571240>                      Conv 1x1   [1x]
+<tensorflow.python.keras.layers.normalization_v2.BatchNormalization object at 0x7fb149ee1fd0>       BN
+<tensorflow.python.keras.layers.core.Activation object at 0x7fb149e981d0>                           SWISH
+<tensorflow.python.keras.layers.pooling.GlobalAveragePooling2D object at 0x7fb149e90a90>            GPOOL
+
+
+'efficientnetb0': ('block6a_expand_activation', 'block4a_expand_activation',
+                           'block3a_expand_activation', 'block2a_expand_activation'),
+
+                           ('block2a_project_bn'
+                           'block3a_project_bn'
+                           'block4a_project_bn'
+                           'block6a_project_bn')
+
+
+
+name: image   shape: [(None, 224, 224, 3)]
+name: stem_conv   shape: (None, 112, 112, 32)
+name: stem_bn   shape: (None, 112, 112, 32)
+name: stem_activation   shape: (None, 112, 112, 32)
+name: block1a_dwconv   shape: (None, 112, 112, 32)
+name: block1a_bn   shape: (None, 112, 112, 32)
+name: block1a_activation   shape: (None, 112, 112, 32)
+name: block1a_se_squeeze   shape: (None, 32)
+name: block1a_se_reshape   shape: (None, 1, 1, 32)
+name: block1a_se_reduce   shape: (None, 1, 1, 8)
+name: block1a_se_expand   shape: (None, 1, 1, 32)
+name: block1a_se_excite   shape: (None, 112, 112, 32)
+name: block1a_project_conv   shape: (None, 112, 112, 16)
+name: block1a_project_bn   shape: (None, 112, 112, 16)
+name: block2a_expand_conv   shape: (None, 112, 112, 96)
+name: block2a_expand_bn   shape: (None, 112, 112, 96)
+name: block2a_expand_activation   shape: (None, 112, 112, 96)
+name: block2a_dwconv   shape: (None, 56, 56, 96)
+name: block2a_bn   shape: (None, 56, 56, 96)
+name: block2a_activation   shape: (None, 56, 56, 96)
+name: block2a_se_squeeze   shape: (None, 96)
+name: block2a_se_reshape   shape: (None, 1, 1, 96)
+name: block2a_se_reduce   shape: (None, 1, 1, 4)
+name: block2a_se_expand   shape: (None, 1, 1, 96)
+name: block2a_se_excite   shape: (None, 56, 56, 96)
+name: block2a_project_conv   shape: (None, 56, 56, 24)
+name: block2a_project_bn   shape: (None, 56, 56, 24)
+name: block2b_expand_conv   shape: (None, 56, 56, 144)
+name: block2b_expand_bn   shape: (None, 56, 56, 144)
+name: block2b_expand_activation   shape: (None, 56, 56, 144)
+name: block2b_dwconv   shape: (None, 56, 56, 144)
+name: block2b_bn   shape: (None, 56, 56, 144)
+name: block2b_activation   shape: (None, 56, 56, 144)
+name: block2b_se_squeeze   shape: (None, 144)
+name: block2b_se_reshape   shape: (None, 1, 1, 144)
+name: block2b_se_reduce   shape: (None, 1, 1, 6)
+name: block2b_se_expand   shape: (None, 1, 1, 144)
+name: block2b_se_excite   shape: (None, 56, 56, 144)
+name: block2b_project_conv   shape: (None, 56, 56, 24)
+name: block2b_project_bn   shape: (None, 56, 56, 24)
+name: block2b_drop   shape: (None, 56, 56, 24)
+name: block2b_add   shape: (None, 56, 56, 24)
+name: block3a_expand_conv   shape: (None, 56, 56, 144)
+name: block3a_expand_bn   shape: (None, 56, 56, 144)
+name: block3a_expand_activation   shape: (None, 56, 56, 144)
+name: block3a_dwconv   shape: (None, 28, 28, 144)
+name: block3a_bn   shape: (None, 28, 28, 144)
+name: block3a_activation   shape: (None, 28, 28, 144)
+name: block3a_se_squeeze   shape: (None, 144)
+name: block3a_se_reshape   shape: (None, 1, 1, 144)
+name: block3a_se_reduce   shape: (None, 1, 1, 6)
+name: block3a_se_expand   shape: (None, 1, 1, 144)
+name: block3a_se_excite   shape: (None, 28, 28, 144)
+name: block3a_project_conv   shape: (None, 28, 28, 40)
+name: block3a_project_bn   shape: (None, 28, 28, 40)
+name: block3b_expand_conv   shape: (None, 28, 28, 240)
+name: block3b_expand_bn   shape: (None, 28, 28, 240)
+name: block3b_expand_activation   shape: (None, 28, 28, 240)
+name: block3b_dwconv   shape: (None, 28, 28, 240)
+name: block3b_bn   shape: (None, 28, 28, 240)
+name: block3b_activation   shape: (None, 28, 28, 240)
+name: block3b_se_squeeze   shape: (None, 240)
+name: block3b_se_reshape   shape: (None, 1, 1, 240)
+name: block3b_se_reduce   shape: (None, 1, 1, 10)
+name: block3b_se_expand   shape: (None, 1, 1, 240)
+name: block3b_se_excite   shape: (None, 28, 28, 240)
+name: block3b_project_conv   shape: (None, 28, 28, 40)
+name: block3b_project_bn   shape: (None, 28, 28, 40)
+name: block3b_drop   shape: (None, 28, 28, 40)
+name: block3b_add   shape: (None, 28, 28, 40)
+name: block4a_expand_conv   shape: (None, 28, 28, 240)
+name: block4a_expand_bn   shape: (None, 28, 28, 240)
+name: block4a_expand_activation   shape: (None, 28, 28, 240)
+name: block4a_dwconv   shape: (None, 14, 14, 240)
+name: block4a_bn   shape: (None, 14, 14, 240)
+name: block4a_activation   shape: (None, 14, 14, 240)
+name: block4a_se_squeeze   shape: (None, 240)
+name: block4a_se_reshape   shape: (None, 1, 1, 240)
+name: block4a_se_reduce   shape: (None, 1, 1, 10)
+name: block4a_se_expand   shape: (None, 1, 1, 240)
+name: block4a_se_excite   shape: (None, 14, 14, 240)
+name: block4a_project_conv   shape: (None, 14, 14, 80)
+name: block4a_project_bn   shape: (None, 14, 14, 80)
+name: block4b_expand_conv   shape: (None, 14, 14, 480)
+name: block4b_expand_bn   shape: (None, 14, 14, 480)
+name: block4b_expand_activation   shape: (None, 14, 14, 480)
+name: block4b_dwconv   shape: (None, 14, 14, 480)
+name: block4b_bn   shape: (None, 14, 14, 480)
+name: block4b_activation   shape: (None, 14, 14, 480)
+name: block4b_se_squeeze   shape: (None, 480)
+name: block4b_se_reshape   shape: (None, 1, 1, 480)
+name: block4b_se_reduce   shape: (None, 1, 1, 20)
+name: block4b_se_expand   shape: (None, 1, 1, 480)
+name: block4b_se_excite   shape: (None, 14, 14, 480)
+name: block4b_project_conv   shape: (None, 14, 14, 80)
+name: block4b_project_bn   shape: (None, 14, 14, 80)
+name: block4b_drop   shape: (None, 14, 14, 80)
+name: block4b_add   shape: (None, 14, 14, 80)
+name: block4c_expand_conv   shape: (None, 14, 14, 480)
+name: block4c_expand_bn   shape: (None, 14, 14, 480)
+name: block4c_expand_activation   shape: (None, 14, 14, 480)
+name: block4c_dwconv   shape: (None, 14, 14, 480)
+name: block4c_bn   shape: (None, 14, 14, 480)
+name: block4c_activation   shape: (None, 14, 14, 480)
+name: block4c_se_squeeze   shape: (None, 480)
+name: block4c_se_reshape   shape: (None, 1, 1, 480)
+name: block4c_se_reduce   shape: (None, 1, 1, 20)
+name: block4c_se_expand   shape: (None, 1, 1, 480)
+name: block4c_se_excite   shape: (None, 14, 14, 480)
+name: block4c_project_conv   shape: (None, 14, 14, 80)
+name: block4c_project_bn   shape: (None, 14, 14, 80)
+name: block4c_drop   shape: (None, 14, 14, 80)
+name: block4c_add   shape: (None, 14, 14, 80)
+name: block5a_expand_conv   shape: (None, 14, 14, 480)
+name: block5a_expand_bn   shape: (None, 14, 14, 480)
+name: block5a_expand_activation   shape: (None, 14, 14, 480)
+name: block5a_dwconv   shape: (None, 14, 14, 480)
+name: block5a_bn   shape: (None, 14, 14, 480)
+name: block5a_activation   shape: (None, 14, 14, 480)
+name: block5a_se_squeeze   shape: (None, 480)
+name: block5a_se_reshape   shape: (None, 1, 1, 480)
+name: block5a_se_reduce   shape: (None, 1, 1, 20)
+name: block5a_se_expand   shape: (None, 1, 1, 480)
+name: block5a_se_excite   shape: (None, 14, 14, 480)
+name: block5a_project_conv   shape: (None, 14, 14, 112)
+name: block5a_project_bn   shape: (None, 14, 14, 112)
+name: block5b_expand_conv   shape: (None, 14, 14, 672)
+name: block5b_expand_bn   shape: (None, 14, 14, 672)
+name: block5b_expand_activation   shape: (None, 14, 14, 672)
+name: block5b_dwconv   shape: (None, 14, 14, 672)
+name: block5b_bn   shape: (None, 14, 14, 672)
+name: block5b_activation   shape: (None, 14, 14, 672)
+name: block5b_se_squeeze   shape: (None, 672)
+name: block5b_se_reshape   shape: (None, 1, 1, 672)
+name: block5b_se_reduce   shape: (None, 1, 1, 28)
+name: block5b_se_expand   shape: (None, 1, 1, 672)
+name: block5b_se_excite   shape: (None, 14, 14, 672)
+name: block5b_project_conv   shape: (None, 14, 14, 112)
+name: block5b_project_bn   shape: (None, 14, 14, 112)
+name: block5b_drop   shape: (None, 14, 14, 112)
+name: block5b_add   shape: (None, 14, 14, 112)
+name: block5c_expand_conv   shape: (None, 14, 14, 672)
+name: block5c_expand_bn   shape: (None, 14, 14, 672)
+name: block5c_expand_activation   shape: (None, 14, 14, 672)
+name: block5c_dwconv   shape: (None, 14, 14, 672)
+name: block5c_bn   shape: (None, 14, 14, 672)
+name: block5c_activation   shape: (None, 14, 14, 672)
+name: block5c_se_squeeze   shape: (None, 672)
+name: block5c_se_reshape   shape: (None, 1, 1, 672)
+name: block5c_se_reduce   shape: (None, 1, 1, 28)
+name: block5c_se_expand   shape: (None, 1, 1, 672)
+name: block5c_se_excite   shape: (None, 14, 14, 672)
+name: block5c_project_conv   shape: (None, 14, 14, 112)
+name: block5c_project_bn   shape: (None, 14, 14, 112)
+name: block5c_drop   shape: (None, 14, 14, 112)
+name: block5c_add   shape: (None, 14, 14, 112)
+name: block6a_expand_conv   shape: (None, 14, 14, 672)
+name: block6a_expand_bn   shape: (None, 14, 14, 672)
+name: block6a_expand_activation   shape: (None, 14, 14, 672)
+name: block6a_dwconv   shape: (None, 7, 7, 672)
+name: block6a_bn   shape: (None, 7, 7, 672)
+name: block6a_activation   shape: (None, 7, 7, 672)
+name: block6a_se_squeeze   shape: (None, 672)
+name: block6a_se_reshape   shape: (None, 1, 1, 672)
+name: block6a_se_reduce   shape: (None, 1, 1, 28)
+name: block6a_se_expand   shape: (None, 1, 1, 672)
+name: block6a_se_excite   shape: (None, 7, 7, 672)
+name: block6a_project_conv   shape: (None, 7, 7, 192)
+name: block6a_project_bn   shape: (None, 7, 7, 192)
+name: block6b_expand_conv   shape: (None, 7, 7, 1152)
+name: block6b_expand_bn   shape: (None, 7, 7, 1152)
+name: block6b_expand_activation   shape: (None, 7, 7, 1152)
+name: block6b_dwconv   shape: (None, 7, 7, 1152)
+name: block6b_bn   shape: (None, 7, 7, 1152)
+name: block6b_activation   shape: (None, 7, 7, 1152)
+name: block6b_se_squeeze   shape: (None, 1152)
+name: block6b_se_reshape   shape: (None, 1, 1, 1152)
+name: block6b_se_reduce   shape: (None, 1, 1, 48)
+name: block6b_se_expand   shape: (None, 1, 1, 1152)
+name: block6b_se_excite   shape: (None, 7, 7, 1152)
+name: block6b_project_conv   shape: (None, 7, 7, 192)
+name: block6b_project_bn   shape: (None, 7, 7, 192)
+name: block6b_drop   shape: (None, 7, 7, 192)
+name: block6b_add   shape: (None, 7, 7, 192)
+name: block6c_expand_conv   shape: (None, 7, 7, 1152)
+name: block6c_expand_bn   shape: (None, 7, 7, 1152)
+name: block6c_expand_activation   shape: (None, 7, 7, 1152)
+name: block6c_dwconv   shape: (None, 7, 7, 1152)
+name: block6c_bn   shape: (None, 7, 7, 1152)
+name: block6c_activation   shape: (None, 7, 7, 1152)
+name: block6c_se_squeeze   shape: (None, 1152)
+name: block6c_se_reshape   shape: (None, 1, 1, 1152)
+name: block6c_se_reduce   shape: (None, 1, 1, 48)
+name: block6c_se_expand   shape: (None, 1, 1, 1152)
+name: block6c_se_excite   shape: (None, 7, 7, 1152)
+name: block6c_project_conv   shape: (None, 7, 7, 192)
+name: block6c_project_bn   shape: (None, 7, 7, 192)
+name: block6c_drop   shape: (None, 7, 7, 192)
+name: block6c_add   shape: (None, 7, 7, 192)
+name: block6d_expand_conv   shape: (None, 7, 7, 1152)
+name: block6d_expand_bn   shape: (None, 7, 7, 1152)
+name: block6d_expand_activation   shape: (None, 7, 7, 1152)
+name: block6d_dwconv   shape: (None, 7, 7, 1152)
+name: block6d_bn   shape: (None, 7, 7, 1152)
+name: block6d_activation   shape: (None, 7, 7, 1152)
+name: block6d_se_squeeze   shape: (None, 1152)
+name: block6d_se_reshape   shape: (None, 1, 1, 1152)
+name: block6d_se_reduce   shape: (None, 1, 1, 48)
+name: block6d_se_expand   shape: (None, 1, 1, 1152)
+name: block6d_se_excite   shape: (None, 7, 7, 1152)
+name: block6d_project_conv   shape: (None, 7, 7, 192)
+name: block6d_project_bn   shape: (None, 7, 7, 192)
+name: block6d_drop   shape: (None, 7, 7, 192)
+name: block6d_add   shape: (None, 7, 7, 192)
+name: block7a_expand_conv   shape: (None, 7, 7, 1152)
+name: block7a_expand_bn   shape: (None, 7, 7, 1152)
+name: block7a_expand_activation   shape: (None, 7, 7, 1152)
+name: block7a_dwconv   shape: (None, 7, 7, 1152)
+name: block7a_bn   shape: (None, 7, 7, 1152)
+name: block7a_activation   shape: (None, 7, 7, 1152)
+name: block7a_se_squeeze   shape: (None, 1152)
+name: block7a_se_reshape   shape: (None, 1, 1, 1152)
+name: block7a_se_reduce   shape: (None, 1, 1, 48)
+name: block7a_se_expand   shape: (None, 1, 1, 1152)
+name: block7a_se_excite   shape: (None, 7, 7, 1152)
+name: block7a_project_conv   shape: (None, 7, 7, 320)
+name: block7a_project_bn   shape: (None, 7, 7, 320)
+name: top_conv   shape: (None, 7, 7, 1280)
+name: top_bn   shape: (None, 7, 7, 1280)
+name: top_activation   shape: (None, 7, 7, 1280)
+name: avg_pool   shape: (None, 1280)
+Tensor("block6a_project_bn/Identity:0", shape=(None, 7, 7, 192), dtype=float32)
+
+Process finished with exit code 45
